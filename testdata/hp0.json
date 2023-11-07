@@ -1,0 +1,4911 @@
+{
+  "segments": [
+    {
+      "start": 1.061,
+      "end": 13.529,
+      "text": " Henry F. Phillips from Wikipedia, the free encyclopedia at en.wikipedia.org.",
+      "words": [
+        {
+          "word": "Henry",
+          "start": 1.061,
+          "end": 1.481,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "F.",
+          "start": 1.842,
+          "end": 1.902,
+          "score": 0.672,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 2.222,
+          "end": 2.702,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 3.603,
+          "end": 3.783,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wikipedia,",
+          "start": 3.843,
+          "end": 4.683,
+          "score": 0.891,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.304,
+          "end": 5.424,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "free",
+          "start": 5.484,
+          "end": 5.744,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "encyclopedia",
+          "start": 5.804,
+          "end": 6.805,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 7.605,
+          "end": 7.705,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "en.wikipedia.org.",
+          "start": 8.006,
+          "end": 11.768,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13.529,
+      "end": 19.493,
+      "text": "Henry F. Phillips from Wikipedia, the free encyclopedia.",
+      "words": [
+        {
+          "word": "Henry",
+          "start": 13.529,
+          "end": 13.929,
+          "score": 0.905,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "F.",
+          "start": 14.29,
+          "end": 14.35,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 14.67,
+          "end": 15.13,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 16.871,
+          "end": 17.031,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wikipedia,",
+          "start": 17.071,
+          "end": 17.812,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 18.172,
+          "end": 18.272,
+          "score": 0.961,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "free",
+          "start": 18.312,
+          "end": 18.552,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "encyclopedia.",
+          "start": 18.592,
+          "end": 19.493,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.38,
+      "end": 28.062,
+      "text": " Henry F. Phillips, 1890 to 1958, a U.S.",
+      "words": [
+        {
+          "word": "Henry",
+          "start": 21.38,
+          "end": 21.7,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "F.",
+          "start": 21.94,
+          "end": 22.0,
+          "score": 0.675,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips,",
+          "start": 22.22,
+          "end": 23.781,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1890"
+        },
+        {
+          "word": "to",
+          "start": 25.161,
+          "end": 25.421,
+          "score": 0.603,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1958,"
+        },
+        {
+          "word": "a",
+          "start": 27.362,
+          "end": 27.422,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "U.S.",
+          "start": 27.662,
+          "end": 27.942,
+          "score": 0.828,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 28.062,
+      "end": 38.085,
+      "text": "businessman from Portland, Oregon, has the honor of having the Phillips head screw and screwdriver named after him.",
+      "words": [
+        {
+          "word": "businessman",
+          "start": 28.062,
+          "end": 28.802,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 29.302,
+          "end": 29.482,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Portland,",
+          "start": 29.582,
+          "end": 30.123,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Oregon,",
+          "start": 30.463,
+          "end": 30.903,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "has",
+          "start": 31.943,
+          "end": 32.223,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 32.303,
+          "end": 32.423,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "honor",
+          "start": 32.563,
+          "end": 32.803,
+          "score": 0.928,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 33.224,
+          "end": 33.284,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "having",
+          "start": 33.364,
+          "end": 33.684,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 33.724,
+          "end": 33.804,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 33.904,
+          "end": 34.324,
+          "score": 0.897,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "head",
+          "start": 34.404,
+          "end": 34.644,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 34.784,
+          "end": 35.224,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 35.684,
+          "end": 35.824,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screwdriver",
+          "start": 35.944,
+          "end": 36.685,
+          "score": 0.976,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "named",
+          "start": 37.125,
+          "end": 37.405,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "after",
+          "start": 37.525,
+          "end": 37.865,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "him.",
+          "start": 37.925,
+          "end": 38.085,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 40.219,
+      "end": 53.762,
+      "text": " The importance of the crosshead screw design lies in its self-centering property, useful on automated production lines that use powered screwdrivers.",
+      "words": [
+        {
+          "word": "The",
+          "start": 40.219,
+          "end": 40.319,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "importance",
+          "start": 40.379,
+          "end": 40.979,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 41.079,
+          "end": 41.139,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 41.179,
+          "end": 41.259,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "crosshead",
+          "start": 41.319,
+          "end": 41.979,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 42.079,
+          "end": 42.439,
+          "score": 0.941,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "design",
+          "start": 42.479,
+          "end": 42.98,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lies",
+          "start": 43.7,
+          "end": 44.04,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 44.12,
+          "end": 44.18,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "its",
+          "start": 44.24,
+          "end": 44.36,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "self-centering",
+          "start": 44.54,
+          "end": 45.48,
+          "score": 0.943,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "property,",
+          "start": 45.56,
+          "end": 46.14,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "useful",
+          "start": 47.1,
+          "end": 47.52,
+          "score": 0.959,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 47.721,
+          "end": 47.781,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "automated",
+          "start": 47.921,
+          "end": 48.421,
+          "score": 0.985,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "production",
+          "start": 48.541,
+          "end": 49.081,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lines",
+          "start": 49.161,
+          "end": 49.521,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 50.001,
+          "end": 50.161,
+          "score": 0.97,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "use",
+          "start": 50.381,
+          "end": 50.561,
+          "score": 0.948,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "powered",
+          "start": 50.681,
+          "end": 51.081,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screwdrivers.",
+          "start": 51.181,
+          "end": 52.041,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 53.762,
+      "end": 64.544,
+      "text": "Philips' major contribution was in driving the crosshead concept forward to the point where it was adopted by screw makers and automobile companies.",
+      "words": [
+        {
+          "word": "Philips'",
+          "start": 53.762,
+          "end": 54.122,
+          "score": 0.778,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "major",
+          "start": 54.242,
+          "end": 54.582,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "contribution",
+          "start": 54.642,
+          "end": 55.402,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 55.822,
+          "end": 55.962,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 56.022,
+          "end": 56.102,
+          "score": 0.837,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "driving",
+          "start": 56.182,
+          "end": 56.682,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 56.722,
+          "end": 56.822,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "crosshead",
+          "start": 56.862,
+          "end": 57.443,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concept",
+          "start": 57.503,
+          "end": 58.023,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "forward",
+          "start": 58.143,
+          "end": 58.583,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 59.283,
+          "end": 59.463,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 59.503,
+          "end": 59.603,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "point",
+          "start": 59.663,
+          "end": 60.003,
+          "score": 0.863,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "where",
+          "start": 60.403,
+          "end": 60.583,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 60.643,
+          "end": 60.703,
+          "score": 0.774,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 60.743,
+          "end": 60.863,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "adopted",
+          "start": 60.923,
+          "end": 61.483,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 61.603,
+          "end": 61.743,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 61.823,
+          "end": 62.123,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "makers",
+          "start": 62.183,
+          "end": 62.584,
+          "score": 0.967,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 63.044,
+          "end": 63.144,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "automobile",
+          "start": 63.284,
+          "end": 63.924,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "companies.",
+          "start": 63.984,
+          "end": 64.544,
+          "score": 0.916,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 66.218,
+      "end": 72.464,
+      "text": " Although he received patents for the design in 1936, US patent number 2,046,343, US patents 2,046,837 to 2,046,840,",
+      "words": [
+        {
+          "word": "Although",
+          "start": 66.218,
+          "end": 66.538,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 66.598,
+          "end": 66.699,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "received",
+          "start": 66.779,
+          "end": 67.159,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patents",
+          "start": 67.259,
+          "end": 67.7,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 67.78,
+          "end": 67.9,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 67.94,
+          "end": 68.02,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "design",
+          "start": 68.06,
+          "end": 68.56,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 69.001,
+          "end": 69.061,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1936,"
+        },
+        {
+          "word": "US",
+          "start": 69.221,
+          "end": 69.281,
+          "score": 0.25,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patent",
+          "start": 69.301,
+          "end": 69.561,
+          "score": 0.52,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "number",
+          "start": 69.622,
+          "end": 69.922,
+          "score": 0.399,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2,046,343,"
+        },
+        {
+          "word": "US",
+          "start": 71.383,
+          "end": 71.624,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patents",
+          "start": 71.744,
+          "end": 72.164,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2,046,837"
+        },
+        {
+          "word": "to",
+          "start": 72.364,
+          "end": 72.444,
+          "score": 0.335,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2,046,840,"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 90.202,
+      "end": 98.272,
+      "text": " It was so widely copied that by 1949 Phillips lost his patent.",
+      "words": [
+        {
+          "word": "It",
+          "start": 90.202,
+          "end": 90.262,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 90.322,
+          "end": 90.443,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "so",
+          "start": 90.543,
+          "end": 90.783,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "widely",
+          "start": 90.883,
+          "end": 91.324,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "copied",
+          "start": 91.384,
+          "end": 91.844,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 92.405,
+          "end": 92.545,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "by",
+          "start": 92.625,
+          "end": 92.785,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1949"
+        },
+        {
+          "word": "Phillips",
+          "start": 94.768,
+          "end": 95.168,
+          "score": 0.908,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lost",
+          "start": 95.348,
+          "end": 95.669,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "his",
+          "start": 95.749,
+          "end": 95.869,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patent.",
+          "start": 96.009,
+          "end": 96.51,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.272,
+      "end": 109.465,
+      "text": "The American screw company was responsible for devising a means of manufacturing the screw and successfully patented and licensed their method.",
+      "words": [
+        {
+          "word": "The",
+          "start": 98.272,
+          "end": 98.372,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 98.432,
+          "end": 98.993,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 99.073,
+          "end": 99.413,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "company",
+          "start": 99.513,
+          "end": 99.974,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 100.474,
+          "end": 100.594,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "responsible",
+          "start": 100.655,
+          "end": 101.415,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 101.496,
+          "end": 101.616,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "devising",
+          "start": 101.656,
+          "end": 102.256,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 102.316,
+          "end": 102.337,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "means",
+          "start": 102.417,
+          "end": 102.717,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 103.178,
+          "end": 103.238,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "manufacturing",
+          "start": 103.338,
+          "end": 104.299,
+          "score": 0.975,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 104.339,
+          "end": 104.459,
+          "score": 0.765,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 104.519,
+          "end": 104.9,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 105.861,
+          "end": 105.961,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "successfully",
+          "start": 106.041,
+          "end": 106.782,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "patented",
+          "start": 106.862,
+          "end": 107.463,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 107.903,
+          "end": 107.983,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "licensed",
+          "start": 108.083,
+          "end": 108.644,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "their",
+          "start": 108.804,
+          "end": 109.004,
+          "score": 0.921,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "method.",
+          "start": 109.084,
+          "end": 109.465,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 111.081,
+      "end": 128.162,
+      "text": " Other screw makers of the 1930s dismissed the Phillips concept, since it calls for a relatively complex recessed socket shape in the head of the screw, as distinct from the simple milled slot of a slotted type screw.",
+      "words": [
+        {
+          "word": "Other",
+          "start": 111.081,
+          "end": 111.261,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 111.301,
+          "end": 111.602,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "makers",
+          "start": 111.662,
+          "end": 112.062,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 112.122,
+          "end": 112.202,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 112.243,
+          "end": 112.303,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1930s",
+          "start": 113.304,
+          "end": 113.344,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dismissed",
+          "start": 113.804,
+          "end": 114.305,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 114.405,
+          "end": 114.505,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 114.565,
+          "end": 114.926,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "concept,",
+          "start": 114.986,
+          "end": 115.547,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "since",
+          "start": 116.047,
+          "end": 116.247,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 116.348,
+          "end": 116.408,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "calls",
+          "start": 116.488,
+          "end": 116.808,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 116.868,
+          "end": 117.008,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 117.028,
+          "end": 117.068,
+          "score": 0.494,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "relatively",
+          "start": 117.169,
+          "end": 117.789,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "complex",
+          "start": 117.869,
+          "end": 118.49,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "recessed",
+          "start": 119.031,
+          "end": 119.611,
+          "score": 0.832,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "socket",
+          "start": 119.732,
+          "end": 120.132,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "shape",
+          "start": 120.212,
+          "end": 120.493,
+          "score": 0.792,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 121.093,
+          "end": 121.173,
+          "score": 0.855,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 121.213,
+          "end": 121.294,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "head",
+          "start": 121.354,
+          "end": 121.534,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 121.594,
+          "end": 121.654,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 121.694,
+          "end": 121.794,
+          "score": 0.924,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw,",
+          "start": 121.854,
+          "end": 122.255,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 123.596,
+          "end": 123.696,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "distinct",
+          "start": 123.777,
+          "end": 124.237,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 124.377,
+          "end": 124.517,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 124.557,
+          "end": 124.638,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "simple",
+          "start": 124.718,
+          "end": 125.098,
+          "score": 0.919,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "milled",
+          "start": 125.218,
+          "end": 125.559,
+          "score": 0.81,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slot",
+          "start": 125.659,
+          "end": 126.079,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 126.56,
+          "end": 126.62,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 126.68,
+          "end": 126.72,
+          "score": 0.632,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slotted",
+          "start": 126.78,
+          "end": 127.281,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "type",
+          "start": 127.421,
+          "end": 127.741,
+          "score": 0.974,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw.",
+          "start": 127.821,
+          "end": 128.162,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 129.537,
+      "end": 147.255,
+      "text": " The Phillips screw company and the American screw company went on to devise the Positrive screw, which differs from the Phillips in that it is designed to accommodate greater torque than the Phillips.",
+      "words": [
+        {
+          "word": "The",
+          "start": 129.537,
+          "end": 129.637,
+          "score": 0.889,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 129.697,
+          "end": 130.078,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 130.238,
+          "end": 130.638,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "company",
+          "start": 130.718,
+          "end": 131.219,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 131.879,
+          "end": 132.0,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 132.1,
+          "end": 132.2,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "American",
+          "start": 132.26,
+          "end": 132.84,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 132.921,
+          "end": 133.241,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "company",
+          "start": 133.301,
+          "end": 133.761,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "went",
+          "start": 134.582,
+          "end": 134.782,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 134.943,
+          "end": 135.043,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 135.103,
+          "end": 135.183,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "devise",
+          "start": 135.223,
+          "end": 135.743,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 136.064,
+          "end": 136.164,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Positrive",
+          "start": 136.244,
+          "end": 137.145,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw,",
+          "start": 137.345,
+          "end": 137.765,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 138.807,
+          "end": 138.987,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "differs",
+          "start": 139.127,
+          "end": 139.507,
+          "score": 0.966,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 139.587,
+          "end": 139.747,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 139.788,
+          "end": 139.848,
+          "score": 0.993,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 139.948,
+          "end": 140.408,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 141.129,
+          "end": 141.229,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "that",
+          "start": 141.269,
+          "end": 141.429,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "it",
+          "start": 141.589,
+          "end": 141.649,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 141.75,
+          "end": 141.83,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "designed",
+          "start": 141.93,
+          "end": 142.39,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 142.53,
+          "end": 142.63,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accommodate",
+          "start": 142.69,
+          "end": 143.311,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greater",
+          "start": 143.471,
+          "end": 143.812,
+          "score": 0.885,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "torque",
+          "start": 143.872,
+          "end": 144.312,
+          "score": 0.535,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "than",
+          "start": 144.592,
+          "end": 144.753,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 144.773,
+          "end": 144.833,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips.",
+          "start": 144.913,
+          "end": 145.353,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 147.255,
+      "end": 152.861,
+      "text": "An image accompanied this article captioned, Phillips screw head.",
+      "words": [
+        {
+          "word": "An",
+          "start": 147.255,
+          "end": 147.335,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "image",
+          "start": 147.495,
+          "end": 147.796,
+          "score": 0.9,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accompanied",
+          "start": 147.936,
+          "end": 148.536,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 148.597,
+          "end": 148.737,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "article",
+          "start": 148.897,
+          "end": 149.357,
+          "score": 0.911,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "captioned,",
+          "start": 150.098,
+          "end": 150.699,
+          "score": 0.704,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Phillips",
+          "start": 151.479,
+          "end": 151.88,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 152.14,
+          "end": 152.541,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "head.",
+          "start": 152.621,
+          "end": 152.861,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 155.492,
+      "end": 160.814,
+      "text": " The following is an infobox which accompanies this article.",
+      "words": [
+        {
+          "word": "The",
+          "start": 155.492,
+          "end": 155.572,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "following",
+          "start": 155.632,
+          "end": 156.112,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 156.192,
+          "end": 156.272,
+          "score": 0.758,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 156.312,
+          "end": 156.372,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infobox",
+          "start": 156.492,
+          "end": 157.253,
+          "score": 0.895,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "which",
+          "start": 157.733,
+          "end": 157.913,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accompanies",
+          "start": 157.973,
+          "end": 158.573,
+          "score": 0.969,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 158.673,
+          "end": 158.813,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "article.",
+          "start": 158.993,
+          "end": 159.414,
+          "score": 0.997,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 160.814,
+      "end": 167.137,
+      "text": "Infobox, part of the series on screw drive types.",
+      "words": [
+        {
+          "word": "Infobox,",
+          "start": 160.814,
+          "end": 161.575,
+          "score": 0.922,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "part",
+          "start": 162.275,
+          "end": 162.615,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 162.715,
+          "end": 162.775,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 162.815,
+          "end": 162.955,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "series",
+          "start": 163.035,
+          "end": 163.475,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 163.915,
+          "end": 164.016,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "screw",
+          "start": 164.096,
+          "end": 164.536,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "drive",
+          "start": 164.636,
+          "end": 165.056,
+          "score": 0.917,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "types.",
+          "start": 165.176,
+          "end": 165.596,
+          "score": 0.901,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 167.137,
+      "end": 173.399,
+      "text": "Slotted, commonly, erroneously, flathead.",
+      "words": [
+        {
+          "word": "Slotted,",
+          "start": 167.137,
+          "end": 167.817,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "commonly,",
+          "start": 168.537,
+          "end": 169.178,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "erroneously,",
+          "start": 169.578,
+          "end": 170.358,
+          "score": 0.896,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "flathead.",
+          "start": 170.878,
+          "end": 171.539,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 173.399,
+      "end": 177.281,
+      "text": "Phillips, crosshead.",
+      "words": [
+        {
+          "word": "Phillips,",
+          "start": 173.399,
+          "end": 173.88,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "crosshead.",
+          "start": 174.5,
+          "end": 175.22,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 177.281,
+      "end": 181.543,
+      "text": "Positrive, superdrive.",
+      "words": [
+        {
+          "word": "Positrive,",
+          "start": 177.281,
+          "end": 178.081,
+          "score": 0.882,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "superdrive.",
+          "start": 178.641,
+          "end": 179.462,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 181.543,
+      "end": 181.903,
+      "text": "Torx,",
+      "words": [
+        {
+          "word": "Torx,",
+          "start": 181.543,
+          "end": 181.903,
+          "score": 0.698,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 183.922,
+      "end": 202.978,
+      "text": " Hex Allen, Robertson, Tri-Wing, Torxet, Spannerhead, Triple Square, XZN.",
+      "words": [
+        {
+          "word": "Hex",
+          "start": 183.922,
+          "end": 184.282,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Allen,",
+          "start": 185.043,
+          "end": 185.383,
+          "score": 0.93,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Robertson,",
+          "start": 187.305,
+          "end": 188.046,
+          "score": 0.979,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Tri-Wing,",
+          "start": 190.027,
+          "end": 190.888,
+          "score": 0.829,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Torxet,",
+          "start": 192.629,
+          "end": 193.41,
+          "score": 0.91,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Spannerhead,",
+          "start": 195.111,
+          "end": 195.952,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Triple",
+          "start": 198.134,
+          "end": 198.514,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Square,",
+          "start": 198.594,
+          "end": 199.135,
+          "score": 0.945,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "XZN.",
+          "start": 199.875,
+          "end": 201.016,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 202.978,
+      "end": 208.423,
+      "text": "Others, Poly Drive, Spline Drive, Double Hex.",
+      "words": [
+        {
+          "word": "Others,",
+          "start": 202.978,
+          "end": 203.358,
+          "score": 0.946,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Poly",
+          "start": 204.219,
+          "end": 204.579,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Drive,",
+          "start": 204.599,
+          "end": 205.08,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Spline",
+          "start": 205.861,
+          "end": 206.501,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Drive,",
+          "start": 206.541,
+          "end": 207.022,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Double",
+          "start": 207.802,
+          "end": 208.102,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Hex.",
+          "start": 208.183,
+          "end": 208.423,
+          "score": 0.953,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 210.12,
+      "end": 213.823,
+      "text": " Many images accompanied this infobox.",
+      "words": [
+        {
+          "word": "Many",
+          "start": 210.12,
+          "end": 210.36,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "images",
+          "start": 210.48,
+          "end": 210.881,
+          "score": 0.958,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "accompanied",
+          "start": 210.961,
+          "end": 211.501,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "this",
+          "start": 211.561,
+          "end": 211.721,
+          "score": 0.878,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "infobox.",
+          "start": 211.861,
+          "end": 212.602,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 213.823,
+      "end": 217.886,
+      "text": "This page was last modified on the 9th of April 2008 at 1704.",
+      "words": [
+        {
+          "word": "This",
+          "start": 213.823,
+          "end": 214.003,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "page",
+          "start": 214.123,
+          "end": 214.503,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 214.624,
+          "end": 214.744,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "last",
+          "start": 214.844,
+          "end": 215.104,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "modified",
+          "start": 215.204,
+          "end": 215.824,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "on",
+          "start": 216.245,
+          "end": 216.325,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 216.345,
+          "end": 216.425,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "9th",
+          "start": 216.725,
+          "end": 216.805,
+          "score": 0.797,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 216.885,
+          "end": 216.945,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "April",
+          "start": 217.085,
+          "end": 217.406,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "2008"
+        },
+        {
+          "word": "at",
+          "start": 217.806,
+          "end": 217.866,
+          "score": 0.5,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "1704."
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 223.644,
+      "end": 229.909,
+      "text": " All text is available under the terms of the GNU Free Documentation License.",
+      "words": [
+        {
+          "word": "All",
+          "start": 223.644,
+          "end": 223.784,
+          "score": 0.843,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "text",
+          "start": 223.864,
+          "end": 224.265,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 224.325,
+          "end": 224.405,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "available",
+          "start": 224.465,
+          "end": 225.005,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "under",
+          "start": 225.445,
+          "end": 225.646,
+          "score": 0.933,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 225.666,
+          "end": 225.746,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "terms",
+          "start": 225.806,
+          "end": 226.206,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 226.286,
+          "end": 226.366,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 226.406,
+          "end": 226.506,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "GNU",
+          "start": 226.566,
+          "end": 227.007,
+          "score": 0.883,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Free",
+          "start": 227.147,
+          "end": 227.467,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Documentation",
+          "start": 227.547,
+          "end": 228.448,
+          "score": 0.991,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "License.",
+          "start": 228.508,
+          "end": 229.048,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 229.909,
+      "end": 233.251,
+      "text": "See copyrights for details.",
+      "words": [
+        {
+          "word": "See",
+          "start": 229.909,
+          "end": 230.069,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "copyrights",
+          "start": 230.129,
+          "end": 230.729,
+          "score": 0.869,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 231.11,
+          "end": 231.23,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "details.",
+          "start": 231.29,
+          "end": 231.91,
+          "score": 0.929,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 233.251,
+      "end": 240.536,
+      "text": "Wikipedia is a registered trademark of the Wikimedia Foundation Incorporated, a U.S.",
+      "words": [
+        {
+          "word": "Wikipedia",
+          "start": 233.251,
+          "end": 234.012,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 234.392,
+          "end": 234.472,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 234.512,
+          "end": 234.552,
+          "score": 0.493,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "registered",
+          "start": 234.612,
+          "end": 235.113,
+          "score": 0.964,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "trademark",
+          "start": 235.173,
+          "end": 235.773,
+          "score": 0.977,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 236.173,
+          "end": 236.233,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 236.273,
+          "end": 236.353,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wikimedia",
+          "start": 236.393,
+          "end": 237.194,
+          "score": 0.854,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Foundation",
+          "start": 237.254,
+          "end": 237.935,
+          "score": 0.935,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Incorporated,",
+          "start": 238.195,
+          "end": 238.975,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 239.976,
+          "end": 240.056,
+          "score": 0.76,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "U.S.",
+          "start": 240.196,
+          "end": 240.436,
+          "score": 0.859,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 240.536,
+      "end": 246.521,
+      "text": "registered 501c3 tax-deductible nonprofit charity.",
+      "words": [
+        {
+          "word": "registered",
+          "start": 240.536,
+          "end": 242.378,
+          "score": 0.858,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "501c3",
+          "start": 242.518,
+          "end": 243.459,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tax-deductible",
+          "start": 244.079,
+          "end": 245.08,
+          "score": 0.944,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "nonprofit",
+          "start": 245.26,
+          "end": 245.94,
+          "score": 0.904,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "charity.",
+          "start": 245.98,
+          "end": 246.521,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 248.044,
+      "end": 270.935,
+      "text": " This sound file and all text in the article are licensed under the GNU Free Documentation License, available at www.gnu.org slash copyleft slash fdl dot html.",
+      "words": [
+        {
+          "word": "This",
+          "start": 248.044,
+          "end": 248.264,
+          "score": 0.903,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "sound",
+          "start": 248.464,
+          "end": 248.784,
+          "score": 0.984,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "file",
+          "start": 248.884,
+          "end": 249.245,
+          "score": 0.884,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 249.645,
+          "end": 249.725,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 249.885,
+          "end": 250.025,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "text",
+          "start": 250.105,
+          "end": 250.485,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 250.545,
+          "end": 250.605,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 250.645,
+          "end": 250.725,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "article",
+          "start": 250.825,
+          "end": 251.246,
+          "score": 0.94,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 251.746,
+          "end": 251.846,
+          "score": 0.835,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "licensed",
+          "start": 251.906,
+          "end": 252.446,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "under",
+          "start": 252.826,
+          "end": 253.066,
+          "score": 0.887,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 253.106,
+          "end": 253.227,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "GNU",
+          "start": 253.287,
+          "end": 253.707,
+          "score": 0.8,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Free",
+          "start": 253.847,
+          "end": 254.127,
+          "score": 0.926,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Documentation",
+          "start": 254.167,
+          "end": 255.107,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "License,",
+          "start": 255.187,
+          "end": 255.728,
+          "score": 0.932,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "available",
+          "start": 256.548,
+          "end": 257.128,
+          "score": 0.95,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "at",
+          "start": 257.348,
+          "end": 257.449,
+          "score": 0.794,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "www.gnu.org",
+          "start": 258.429,
+          "end": 263.591,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slash",
+          "start": 264.152,
+          "end": 264.552,
+          "score": 0.879,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "copyleft",
+          "start": 265.072,
+          "end": 265.852,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slash",
+          "start": 266.253,
+          "end": 266.693,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fdl",
+          "start": 267.333,
+          "end": 268.614,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dot",
+          "start": 269.194,
+          "end": 269.434,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "html.",
+          "start": 269.814,
+          "end": 270.935,
+          "score": 0.947,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Henry",
+      "start": 1.061,
+      "end": 1.481,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "F.",
+      "start": 1.842,
+      "end": 1.902,
+      "score": 0.672,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 2.222,
+      "end": 2.702,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 3.603,
+      "end": 3.783,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wikipedia,",
+      "start": 3.843,
+      "end": 4.683,
+      "score": 0.891,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.304,
+      "end": 5.424,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "free",
+      "start": 5.484,
+      "end": 5.744,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "encyclopedia",
+      "start": 5.804,
+      "end": 6.805,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 7.605,
+      "end": 7.705,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "en.wikipedia.org.",
+      "start": 8.006,
+      "end": 11.768,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Henry",
+      "start": 13.529,
+      "end": 13.929,
+      "score": 0.905,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "F.",
+      "start": 14.29,
+      "end": 14.35,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 14.67,
+      "end": 15.13,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 16.871,
+      "end": 17.031,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wikipedia,",
+      "start": 17.071,
+      "end": 17.812,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 18.172,
+      "end": 18.272,
+      "score": 0.961,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "free",
+      "start": 18.312,
+      "end": 18.552,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "encyclopedia.",
+      "start": 18.592,
+      "end": 19.493,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Henry",
+      "start": 21.38,
+      "end": 21.7,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "F.",
+      "start": 21.94,
+      "end": 22.0,
+      "score": 0.675,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips,",
+      "start": 22.22,
+      "end": 23.781,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1890"
+    },
+    {
+      "word": "to",
+      "start": 25.161,
+      "end": 25.421,
+      "score": 0.603,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1958,"
+    },
+    {
+      "word": "a",
+      "start": 27.362,
+      "end": 27.422,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "U.S.",
+      "start": 27.662,
+      "end": 27.942,
+      "score": 0.828,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "businessman",
+      "start": 28.062,
+      "end": 28.802,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 29.302,
+      "end": 29.482,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Portland,",
+      "start": 29.582,
+      "end": 30.123,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Oregon,",
+      "start": 30.463,
+      "end": 30.903,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "has",
+      "start": 31.943,
+      "end": 32.223,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 32.303,
+      "end": 32.423,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "honor",
+      "start": 32.563,
+      "end": 32.803,
+      "score": 0.928,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 33.224,
+      "end": 33.284,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "having",
+      "start": 33.364,
+      "end": 33.684,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 33.724,
+      "end": 33.804,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 33.904,
+      "end": 34.324,
+      "score": 0.897,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "head",
+      "start": 34.404,
+      "end": 34.644,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 34.784,
+      "end": 35.224,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 35.684,
+      "end": 35.824,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screwdriver",
+      "start": 35.944,
+      "end": 36.685,
+      "score": 0.976,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "named",
+      "start": 37.125,
+      "end": 37.405,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "after",
+      "start": 37.525,
+      "end": 37.865,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "him.",
+      "start": 37.925,
+      "end": 38.085,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 40.219,
+      "end": 40.319,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "importance",
+      "start": 40.379,
+      "end": 40.979,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 41.079,
+      "end": 41.139,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 41.179,
+      "end": 41.259,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "crosshead",
+      "start": 41.319,
+      "end": 41.979,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 42.079,
+      "end": 42.439,
+      "score": 0.941,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "design",
+      "start": 42.479,
+      "end": 42.98,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lies",
+      "start": 43.7,
+      "end": 44.04,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 44.12,
+      "end": 44.18,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "its",
+      "start": 44.24,
+      "end": 44.36,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "self-centering",
+      "start": 44.54,
+      "end": 45.48,
+      "score": 0.943,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "property,",
+      "start": 45.56,
+      "end": 46.14,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "useful",
+      "start": 47.1,
+      "end": 47.52,
+      "score": 0.959,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 47.721,
+      "end": 47.781,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "automated",
+      "start": 47.921,
+      "end": 48.421,
+      "score": 0.985,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "production",
+      "start": 48.541,
+      "end": 49.081,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lines",
+      "start": 49.161,
+      "end": 49.521,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 50.001,
+      "end": 50.161,
+      "score": 0.97,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "use",
+      "start": 50.381,
+      "end": 50.561,
+      "score": 0.948,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "powered",
+      "start": 50.681,
+      "end": 51.081,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screwdrivers.",
+      "start": 51.181,
+      "end": 52.041,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Philips'",
+      "start": 53.762,
+      "end": 54.122,
+      "score": 0.778,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "major",
+      "start": 54.242,
+      "end": 54.582,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "contribution",
+      "start": 54.642,
+      "end": 55.402,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 55.822,
+      "end": 55.962,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 56.022,
+      "end": 56.102,
+      "score": 0.837,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "driving",
+      "start": 56.182,
+      "end": 56.682,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 56.722,
+      "end": 56.822,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "crosshead",
+      "start": 56.862,
+      "end": 57.443,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concept",
+      "start": 57.503,
+      "end": 58.023,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "forward",
+      "start": 58.143,
+      "end": 58.583,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 59.283,
+      "end": 59.463,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 59.503,
+      "end": 59.603,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "point",
+      "start": 59.663,
+      "end": 60.003,
+      "score": 0.863,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "where",
+      "start": 60.403,
+      "end": 60.583,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 60.643,
+      "end": 60.703,
+      "score": 0.774,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 60.743,
+      "end": 60.863,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "adopted",
+      "start": 60.923,
+      "end": 61.483,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 61.603,
+      "end": 61.743,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 61.823,
+      "end": 62.123,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "makers",
+      "start": 62.183,
+      "end": 62.584,
+      "score": 0.967,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 63.044,
+      "end": 63.144,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "automobile",
+      "start": 63.284,
+      "end": 63.924,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "companies.",
+      "start": 63.984,
+      "end": 64.544,
+      "score": 0.916,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Although",
+      "start": 66.218,
+      "end": 66.538,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 66.598,
+      "end": 66.699,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "received",
+      "start": 66.779,
+      "end": 67.159,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patents",
+      "start": 67.259,
+      "end": 67.7,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 67.78,
+      "end": 67.9,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 67.94,
+      "end": 68.02,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "design",
+      "start": 68.06,
+      "end": 68.56,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 69.001,
+      "end": 69.061,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1936,"
+    },
+    {
+      "word": "US",
+      "start": 69.221,
+      "end": 69.281,
+      "score": 0.25,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patent",
+      "start": 69.301,
+      "end": 69.561,
+      "score": 0.52,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "number",
+      "start": 69.622,
+      "end": 69.922,
+      "score": 0.399,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2,046,343,"
+    },
+    {
+      "word": "US",
+      "start": 71.383,
+      "end": 71.624,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patents",
+      "start": 71.744,
+      "end": 72.164,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2,046,837"
+    },
+    {
+      "word": "to",
+      "start": 72.364,
+      "end": 72.444,
+      "score": 0.335,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2,046,840,"
+    },
+    {
+      "word": "It",
+      "start": 90.202,
+      "end": 90.262,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 90.322,
+      "end": 90.443,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "so",
+      "start": 90.543,
+      "end": 90.783,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "widely",
+      "start": 90.883,
+      "end": 91.324,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "copied",
+      "start": 91.384,
+      "end": 91.844,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 92.405,
+      "end": 92.545,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "by",
+      "start": 92.625,
+      "end": 92.785,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1949"
+    },
+    {
+      "word": "Phillips",
+      "start": 94.768,
+      "end": 95.168,
+      "score": 0.908,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lost",
+      "start": 95.348,
+      "end": 95.669,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "his",
+      "start": 95.749,
+      "end": 95.869,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patent.",
+      "start": 96.009,
+      "end": 96.51,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 98.272,
+      "end": 98.372,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 98.432,
+      "end": 98.993,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 99.073,
+      "end": 99.413,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "company",
+      "start": 99.513,
+      "end": 99.974,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 100.474,
+      "end": 100.594,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "responsible",
+      "start": 100.655,
+      "end": 101.415,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 101.496,
+      "end": 101.616,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "devising",
+      "start": 101.656,
+      "end": 102.256,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 102.316,
+      "end": 102.337,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "means",
+      "start": 102.417,
+      "end": 102.717,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 103.178,
+      "end": 103.238,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "manufacturing",
+      "start": 103.338,
+      "end": 104.299,
+      "score": 0.975,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 104.339,
+      "end": 104.459,
+      "score": 0.765,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 104.519,
+      "end": 104.9,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 105.861,
+      "end": 105.961,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "successfully",
+      "start": 106.041,
+      "end": 106.782,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "patented",
+      "start": 106.862,
+      "end": 107.463,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 107.903,
+      "end": 107.983,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "licensed",
+      "start": 108.083,
+      "end": 108.644,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "their",
+      "start": 108.804,
+      "end": 109.004,
+      "score": 0.921,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "method.",
+      "start": 109.084,
+      "end": 109.465,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Other",
+      "start": 111.081,
+      "end": 111.261,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 111.301,
+      "end": 111.602,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "makers",
+      "start": 111.662,
+      "end": 112.062,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 112.122,
+      "end": 112.202,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 112.243,
+      "end": 112.303,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1930s",
+      "start": 113.304,
+      "end": 113.344,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dismissed",
+      "start": 113.804,
+      "end": 114.305,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 114.405,
+      "end": 114.505,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 114.565,
+      "end": 114.926,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "concept,",
+      "start": 114.986,
+      "end": 115.547,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "since",
+      "start": 116.047,
+      "end": 116.247,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 116.348,
+      "end": 116.408,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "calls",
+      "start": 116.488,
+      "end": 116.808,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 116.868,
+      "end": 117.008,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 117.028,
+      "end": 117.068,
+      "score": 0.494,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "relatively",
+      "start": 117.169,
+      "end": 117.789,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "complex",
+      "start": 117.869,
+      "end": 118.49,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "recessed",
+      "start": 119.031,
+      "end": 119.611,
+      "score": 0.832,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "socket",
+      "start": 119.732,
+      "end": 120.132,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "shape",
+      "start": 120.212,
+      "end": 120.493,
+      "score": 0.792,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 121.093,
+      "end": 121.173,
+      "score": 0.855,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 121.213,
+      "end": 121.294,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "head",
+      "start": 121.354,
+      "end": 121.534,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 121.594,
+      "end": 121.654,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 121.694,
+      "end": 121.794,
+      "score": 0.924,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw,",
+      "start": 121.854,
+      "end": 122.255,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 123.596,
+      "end": 123.696,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "distinct",
+      "start": 123.777,
+      "end": 124.237,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 124.377,
+      "end": 124.517,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 124.557,
+      "end": 124.638,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "simple",
+      "start": 124.718,
+      "end": 125.098,
+      "score": 0.919,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "milled",
+      "start": 125.218,
+      "end": 125.559,
+      "score": 0.81,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slot",
+      "start": 125.659,
+      "end": 126.079,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 126.56,
+      "end": 126.62,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 126.68,
+      "end": 126.72,
+      "score": 0.632,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slotted",
+      "start": 126.78,
+      "end": 127.281,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "type",
+      "start": 127.421,
+      "end": 127.741,
+      "score": 0.974,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw.",
+      "start": 127.821,
+      "end": 128.162,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 129.537,
+      "end": 129.637,
+      "score": 0.889,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 129.697,
+      "end": 130.078,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 130.238,
+      "end": 130.638,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "company",
+      "start": 130.718,
+      "end": 131.219,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 131.879,
+      "end": 132.0,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 132.1,
+      "end": 132.2,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "American",
+      "start": 132.26,
+      "end": 132.84,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 132.921,
+      "end": 133.241,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "company",
+      "start": 133.301,
+      "end": 133.761,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "went",
+      "start": 134.582,
+      "end": 134.782,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 134.943,
+      "end": 135.043,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 135.103,
+      "end": 135.183,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "devise",
+      "start": 135.223,
+      "end": 135.743,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 136.064,
+      "end": 136.164,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Positrive",
+      "start": 136.244,
+      "end": 137.145,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw,",
+      "start": 137.345,
+      "end": 137.765,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 138.807,
+      "end": 138.987,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "differs",
+      "start": 139.127,
+      "end": 139.507,
+      "score": 0.966,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 139.587,
+      "end": 139.747,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 139.788,
+      "end": 139.848,
+      "score": 0.993,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 139.948,
+      "end": 140.408,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 141.129,
+      "end": 141.229,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "that",
+      "start": 141.269,
+      "end": 141.429,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "it",
+      "start": 141.589,
+      "end": 141.649,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 141.75,
+      "end": 141.83,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "designed",
+      "start": 141.93,
+      "end": 142.39,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 142.53,
+      "end": 142.63,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accommodate",
+      "start": 142.69,
+      "end": 143.311,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greater",
+      "start": 143.471,
+      "end": 143.812,
+      "score": 0.885,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "torque",
+      "start": 143.872,
+      "end": 144.312,
+      "score": 0.535,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "than",
+      "start": 144.592,
+      "end": 144.753,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 144.773,
+      "end": 144.833,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips.",
+      "start": 144.913,
+      "end": 145.353,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "An",
+      "start": 147.255,
+      "end": 147.335,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "image",
+      "start": 147.495,
+      "end": 147.796,
+      "score": 0.9,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accompanied",
+      "start": 147.936,
+      "end": 148.536,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 148.597,
+      "end": 148.737,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "article",
+      "start": 148.897,
+      "end": 149.357,
+      "score": 0.911,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "captioned,",
+      "start": 150.098,
+      "end": 150.699,
+      "score": 0.704,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips",
+      "start": 151.479,
+      "end": 151.88,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 152.14,
+      "end": 152.541,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "head.",
+      "start": 152.621,
+      "end": 152.861,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "The",
+      "start": 155.492,
+      "end": 155.572,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "following",
+      "start": 155.632,
+      "end": 156.112,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 156.192,
+      "end": 156.272,
+      "score": 0.758,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 156.312,
+      "end": 156.372,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infobox",
+      "start": 156.492,
+      "end": 157.253,
+      "score": 0.895,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "which",
+      "start": 157.733,
+      "end": 157.913,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accompanies",
+      "start": 157.973,
+      "end": 158.573,
+      "score": 0.969,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 158.673,
+      "end": 158.813,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "article.",
+      "start": 158.993,
+      "end": 159.414,
+      "score": 0.997,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Infobox,",
+      "start": 160.814,
+      "end": 161.575,
+      "score": 0.922,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "part",
+      "start": 162.275,
+      "end": 162.615,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 162.715,
+      "end": 162.775,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 162.815,
+      "end": 162.955,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "series",
+      "start": 163.035,
+      "end": 163.475,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 163.915,
+      "end": 164.016,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "screw",
+      "start": 164.096,
+      "end": 164.536,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "drive",
+      "start": 164.636,
+      "end": 165.056,
+      "score": 0.917,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "types.",
+      "start": 165.176,
+      "end": 165.596,
+      "score": 0.901,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Slotted,",
+      "start": 167.137,
+      "end": 167.817,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "commonly,",
+      "start": 168.537,
+      "end": 169.178,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "erroneously,",
+      "start": 169.578,
+      "end": 170.358,
+      "score": 0.896,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "flathead.",
+      "start": 170.878,
+      "end": 171.539,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Phillips,",
+      "start": 173.399,
+      "end": 173.88,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "crosshead.",
+      "start": 174.5,
+      "end": 175.22,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Positrive,",
+      "start": 177.281,
+      "end": 178.081,
+      "score": 0.882,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "superdrive.",
+      "start": 178.641,
+      "end": 179.462,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Torx,",
+      "start": 181.543,
+      "end": 181.903,
+      "score": 0.698,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hex",
+      "start": 183.922,
+      "end": 184.282,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Allen,",
+      "start": 185.043,
+      "end": 185.383,
+      "score": 0.93,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Robertson,",
+      "start": 187.305,
+      "end": 188.046,
+      "score": 0.979,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Tri-Wing,",
+      "start": 190.027,
+      "end": 190.888,
+      "score": 0.829,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Torxet,",
+      "start": 192.629,
+      "end": 193.41,
+      "score": 0.91,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Spannerhead,",
+      "start": 195.111,
+      "end": 195.952,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Triple",
+      "start": 198.134,
+      "end": 198.514,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Square,",
+      "start": 198.594,
+      "end": 199.135,
+      "score": 0.945,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "XZN.",
+      "start": 199.875,
+      "end": 201.016,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Others,",
+      "start": 202.978,
+      "end": 203.358,
+      "score": 0.946,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Poly",
+      "start": 204.219,
+      "end": 204.579,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Drive,",
+      "start": 204.599,
+      "end": 205.08,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Spline",
+      "start": 205.861,
+      "end": 206.501,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Drive,",
+      "start": 206.541,
+      "end": 207.022,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Double",
+      "start": 207.802,
+      "end": 208.102,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Hex.",
+      "start": 208.183,
+      "end": 208.423,
+      "score": 0.953,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Many",
+      "start": 210.12,
+      "end": 210.36,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "images",
+      "start": 210.48,
+      "end": 210.881,
+      "score": 0.958,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "accompanied",
+      "start": 210.961,
+      "end": 211.501,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "this",
+      "start": 211.561,
+      "end": 211.721,
+      "score": 0.878,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "infobox.",
+      "start": 211.861,
+      "end": 212.602,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 213.823,
+      "end": 214.003,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "page",
+      "start": 214.123,
+      "end": 214.503,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 214.624,
+      "end": 214.744,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "last",
+      "start": 214.844,
+      "end": 215.104,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "modified",
+      "start": 215.204,
+      "end": 215.824,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "on",
+      "start": 216.245,
+      "end": 216.325,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 216.345,
+      "end": 216.425,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "9th",
+      "start": 216.725,
+      "end": 216.805,
+      "score": 0.797,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 216.885,
+      "end": 216.945,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "April",
+      "start": 217.085,
+      "end": 217.406,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "2008"
+    },
+    {
+      "word": "at",
+      "start": 217.806,
+      "end": 217.866,
+      "score": 0.5,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "1704."
+    },
+    {
+      "word": "All",
+      "start": 223.644,
+      "end": 223.784,
+      "score": 0.843,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "text",
+      "start": 223.864,
+      "end": 224.265,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 224.325,
+      "end": 224.405,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "available",
+      "start": 224.465,
+      "end": 225.005,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "under",
+      "start": 225.445,
+      "end": 225.646,
+      "score": 0.933,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 225.666,
+      "end": 225.746,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "terms",
+      "start": 225.806,
+      "end": 226.206,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 226.286,
+      "end": 226.366,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 226.406,
+      "end": 226.506,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "GNU",
+      "start": 226.566,
+      "end": 227.007,
+      "score": 0.883,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Free",
+      "start": 227.147,
+      "end": 227.467,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Documentation",
+      "start": 227.547,
+      "end": 228.448,
+      "score": 0.991,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "License.",
+      "start": 228.508,
+      "end": 229.048,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "See",
+      "start": 229.909,
+      "end": 230.069,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "copyrights",
+      "start": 230.129,
+      "end": 230.729,
+      "score": 0.869,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 231.11,
+      "end": 231.23,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "details.",
+      "start": 231.29,
+      "end": 231.91,
+      "score": 0.929,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wikipedia",
+      "start": 233.251,
+      "end": 234.012,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 234.392,
+      "end": 234.472,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 234.512,
+      "end": 234.552,
+      "score": 0.493,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "registered",
+      "start": 234.612,
+      "end": 235.113,
+      "score": 0.964,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "trademark",
+      "start": 235.173,
+      "end": 235.773,
+      "score": 0.977,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 236.173,
+      "end": 236.233,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 236.273,
+      "end": 236.353,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wikimedia",
+      "start": 236.393,
+      "end": 237.194,
+      "score": 0.854,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Foundation",
+      "start": 237.254,
+      "end": 237.935,
+      "score": 0.935,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Incorporated,",
+      "start": 238.195,
+      "end": 238.975,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 239.976,
+      "end": 240.056,
+      "score": 0.76,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "U.S.",
+      "start": 240.196,
+      "end": 240.436,
+      "score": 0.859,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "registered",
+      "start": 240.536,
+      "end": 242.378,
+      "score": 0.858,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "501c3",
+      "start": 242.518,
+      "end": 243.459,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tax-deductible",
+      "start": 244.079,
+      "end": 245.08,
+      "score": 0.944,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "nonprofit",
+      "start": 245.26,
+      "end": 245.94,
+      "score": 0.904,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "charity.",
+      "start": 245.98,
+      "end": 246.521,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "This",
+      "start": 248.044,
+      "end": 248.264,
+      "score": 0.903,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "sound",
+      "start": 248.464,
+      "end": 248.784,
+      "score": 0.984,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "file",
+      "start": 248.884,
+      "end": 249.245,
+      "score": 0.884,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 249.645,
+      "end": 249.725,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 249.885,
+      "end": 250.025,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "text",
+      "start": 250.105,
+      "end": 250.485,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 250.545,
+      "end": 250.605,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 250.645,
+      "end": 250.725,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "article",
+      "start": 250.825,
+      "end": 251.246,
+      "score": 0.94,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 251.746,
+      "end": 251.846,
+      "score": 0.835,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "licensed",
+      "start": 251.906,
+      "end": 252.446,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "under",
+      "start": 252.826,
+      "end": 253.066,
+      "score": 0.887,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 253.106,
+      "end": 253.227,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "GNU",
+      "start": 253.287,
+      "end": 253.707,
+      "score": 0.8,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Free",
+      "start": 253.847,
+      "end": 254.127,
+      "score": 0.926,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Documentation",
+      "start": 254.167,
+      "end": 255.107,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "License,",
+      "start": 255.187,
+      "end": 255.728,
+      "score": 0.932,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "available",
+      "start": 256.548,
+      "end": 257.128,
+      "score": 0.95,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "at",
+      "start": 257.348,
+      "end": 257.449,
+      "score": 0.794,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "www.gnu.org",
+      "start": 258.429,
+      "end": 263.591,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slash",
+      "start": 264.152,
+      "end": 264.552,
+      "score": 0.879,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "copyleft",
+      "start": 265.072,
+      "end": 265.852,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slash",
+      "start": 266.253,
+      "end": 266.693,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fdl",
+      "start": 267.333,
+      "end": 268.614,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dot",
+      "start": 269.194,
+      "end": 269.434,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "html.",
+      "start": 269.814,
+      "end": 270.935,
+      "score": 0.947,
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "language": "en"
+}

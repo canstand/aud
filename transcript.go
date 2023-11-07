@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	DefaultMaxLineLength    = 45
-	DefaultCJKMaxLineLength = 30
+	DefaultMaxLineLength    = 72
+	DefaultCJKMaxLineLength = 42
 )
 
 // Transcript is for speech-to-text transcription

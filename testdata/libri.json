@@ -1,0 +1,2197 @@
+{
+  "segments": [
+    {
+      "start": 0.583,
+      "end": 9.327,
+      "text": " The Honorable Charles Smith, Miss Sarah's brother, was walking swiftly uptown from Mr. Easterly's Wall Street office and his face was pale.",
+      "words": [
+        {
+          "word": "The",
+          "start": 0.583,
+          "end": 0.683,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Honorable",
+          "start": 0.803,
+          "end": 1.263,
+          "score": 0.707,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Charles",
+          "start": 1.323,
+          "end": 1.744,
+          "score": 0.808,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Smith,",
+          "start": 1.784,
+          "end": 2.144,
+          "score": 0.957,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Miss",
+          "start": 2.324,
+          "end": 2.524,
+          "score": 0.812,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Sarah's",
+          "start": 2.564,
+          "end": 2.984,
+          "score": 0.813,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "brother,",
+          "start": 3.044,
+          "end": 3.404,
+          "score": 0.952,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 3.504,
+          "end": 3.644,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "walking",
+          "start": 3.704,
+          "end": 4.065,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "swiftly",
+          "start": 4.125,
+          "end": 4.545,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "uptown",
+          "start": 4.625,
+          "end": 5.065,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "from",
+          "start": 5.105,
+          "end": 5.265,
+          "score": 0.841,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Mr.",
+          "start": 5.305,
+          "end": 5.565,
+          "score": 0.818,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Easterly's",
+          "start": 5.705,
+          "end": 6.206,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Wall",
+          "start": 6.246,
+          "end": 6.466,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Street",
+          "start": 6.506,
+          "end": 6.726,
+          "score": 0.894,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "office",
+          "start": 6.846,
+          "end": 7.146,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 7.286,
+          "end": 7.386,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "his",
+          "start": 7.446,
+          "end": 7.566,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "face",
+          "start": 7.666,
+          "end": 7.946,
+          "score": 0.89,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 8.026,
+          "end": 8.146,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pale.",
+          "start": 8.246,
+          "end": 8.627,
+          "score": 0.874,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.327,
+      "end": 15.17,
+      "text": "At last the cotton combine was to all appearances an assured fact and he was slated for the Senate.",
+      "words": [
+        {
+          "word": "At",
+          "start": 9.327,
+          "end": 9.387,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "last",
+          "start": 9.447,
+          "end": 9.727,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 9.767,
+          "end": 9.847,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cotton",
+          "start": 9.887,
+          "end": 10.187,
+          "score": 0.902,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "combine",
+          "start": 10.207,
+          "end": 10.708,
+          "score": 0.992,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 10.768,
+          "end": 10.928,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 10.968,
+          "end": 11.048,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "all",
+          "start": 11.228,
+          "end": 11.348,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "appearances",
+          "start": 11.408,
+          "end": 11.988,
+          "score": 0.986,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "an",
+          "start": 12.048,
+          "end": 12.108,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "assured",
+          "start": 12.148,
+          "end": 12.568,
+          "score": 0.857,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fact",
+          "start": 12.648,
+          "end": 13.009,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 13.069,
+          "end": 13.149,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 13.189,
+          "end": 13.269,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 13.329,
+          "end": 13.449,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "slated",
+          "start": 13.509,
+          "end": 13.909,
+          "score": 0.876,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "for",
+          "start": 13.949,
+          "end": 14.069,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 14.109,
+          "end": 14.189,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "Senate.",
+          "start": 14.249,
+          "end": 14.609,
+          "score": 0.994,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15.17,
+      "end": 17.571,
+      "text": "Why should he not be as other men?",
+      "words": [
+        {
+          "word": "Why",
+          "start": 15.17,
+          "end": 15.33,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "should",
+          "start": 15.39,
+          "end": 15.57,
+          "score": 0.833,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "he",
+          "start": 15.61,
+          "end": 15.71,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 15.81,
+          "end": 15.97,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "be",
+          "start": 16.03,
+          "end": 16.17,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "as",
+          "start": 16.23,
+          "end": 16.31,
+          "score": 0.75,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "other",
+          "start": 16.47,
+          "end": 16.65,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "men?",
+          "start": 16.71,
+          "end": 16.97,
+          "score": 0.92,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.571,
+      "end": 24.894,
+      "text": "She was not herself a notably intelligent woman, she greatly admired intelligence or whatever looked to her like intelligence in others.",
+      "words": [
+        {
+          "word": "She",
+          "start": 17.571,
+          "end": 17.671,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "was",
+          "start": 17.711,
+          "end": 17.811,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "not",
+          "start": 17.871,
+          "end": 18.011,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "herself",
+          "start": 18.051,
+          "end": 18.491,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "a",
+          "start": 18.551,
+          "end": 18.591,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "notably",
+          "start": 18.711,
+          "end": 19.151,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intelligent",
+          "start": 19.231,
+          "end": 19.852,
+          "score": 0.995,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "woman,",
+          "start": 19.892,
+          "end": 20.172,
+          "score": 0.801,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "she",
+          "start": 20.592,
+          "end": 20.712,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "greatly",
+          "start": 20.752,
+          "end": 21.092,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "admired",
+          "start": 21.132,
+          "end": 21.612,
+          "score": 0.973,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intelligence",
+          "start": 21.672,
+          "end": 22.273,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "or",
+          "start": 22.433,
+          "end": 22.513,
+          "score": 0.834,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "whatever",
+          "start": 22.593,
+          "end": 22.913,
+          "score": 0.938,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "looked",
+          "start": 22.993,
+          "end": 23.173,
+          "score": 0.923,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 23.213,
+          "end": 23.293,
+          "score": 0.836,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "her",
+          "start": 23.333,
+          "end": 23.513,
+          "score": 0.893,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "like",
+          "start": 23.573,
+          "end": 23.713,
+          "score": 0.875,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "intelligence",
+          "start": 23.773,
+          "end": 24.354,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "in",
+          "start": 24.414,
+          "end": 24.494,
+          "score": 0.845,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "others.",
+          "start": 24.634,
+          "end": 24.894,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.757,
+      "end": 34.124,
+      "text": " So persuasive were her entreaties, and so strong her assurances that no harm whatever could result to them, from the information she sought.",
+      "words": [
+        {
+          "word": "So",
+          "start": 25.757,
+          "end": 25.897,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "persuasive",
+          "start": 25.957,
+          "end": 26.618,
+          "score": 0.962,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "were",
+          "start": 26.678,
+          "end": 26.838,
+          "score": 0.948,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "her",
+          "start": 26.878,
+          "end": 26.978,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "entreaties,",
+          "start": 27.138,
+          "end": 27.679,
+          "score": 0.908,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 28.079,
+          "end": 28.159,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "so",
+          "start": 28.219,
+          "end": 28.379,
+          "score": 0.876,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "strong",
+          "start": 28.439,
+          "end": 28.8,
+          "score": 0.908,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "her",
+          "start": 28.84,
+          "end": 28.94,
+          "score": 0.959,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "assurances",
+          "start": 28.98,
+          "end": 29.6,
+          "score": 0.954,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 29.64,
+          "end": 29.76,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "no",
+          "start": 29.84,
+          "end": 29.961,
+          "score": 0.999,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "harm",
+          "start": 30.061,
+          "end": 30.341,
+          "score": 0.952,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "whatever",
+          "start": 30.361,
+          "end": 30.741,
+          "score": 0.948,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "could",
+          "start": 30.841,
+          "end": 31.001,
+          "score": 0.833,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "result",
+          "start": 31.041,
+          "end": 31.422,
+          "score": 0.995,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 31.462,
+          "end": 31.602,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "them,",
+          "start": 31.642,
+          "end": 31.782,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "from",
+          "start": 32.082,
+          "end": 32.262,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 32.302,
+          "end": 32.383,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "information",
+          "start": 32.443,
+          "end": 33.023,
+          "score": 0.955,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "she",
+          "start": 33.063,
+          "end": 33.203,
+          "score": 0.898,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "sought.",
+          "start": 33.263,
+          "end": 33.543,
+          "score": 0.889,
+          "speaker": "SPEAKER_01"
+        }
+      ],
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.124,
+      "end": 53.16,
+      "text": "They were induced to confess that one summer's night, the same she had mentioned, themselves and another friend being out on a stroll with Rodolfo, they had been concerned in the adduction of a girl whom Rodolfo carried off, whilst the rest of them detained her family, who made a great outcry and would have defended her if they could.",
+      "words": [
+        {
+          "word": "They",
+          "start": 34.124,
+          "end": 34.224,
+          "score": 0.969,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "were",
+          "start": 34.244,
+          "end": 34.364,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "induced",
+          "start": 34.424,
+          "end": 34.805,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "to",
+          "start": 34.865,
+          "end": 34.945,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "confess",
+          "start": 34.985,
+          "end": 35.405,
+          "score": 0.968,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "that",
+          "start": 35.745,
+          "end": 35.865,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "one",
+          "start": 36.005,
+          "end": 36.126,
+          "score": 0.887,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "summer's",
+          "start": 36.186,
+          "end": 36.506,
+          "score": 0.842,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "night,",
+          "start": 36.586,
+          "end": 36.806,
+          "score": 0.9,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 37.267,
+          "end": 37.367,
+          "score": 0.939,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "same",
+          "start": 37.427,
+          "end": 37.667,
+          "score": 0.942,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "she",
+          "start": 37.707,
+          "end": 37.807,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "had",
+          "start": 37.847,
+          "end": 37.927,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "mentioned,",
+          "start": 37.967,
+          "end": 38.387,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "themselves",
+          "start": 38.728,
+          "end": 39.328,
+          "score": 0.895,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 39.368,
+          "end": 39.468,
+          "score": 0.85,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "another",
+          "start": 39.508,
+          "end": 39.809,
+          "score": 0.881,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "friend",
+          "start": 39.909,
+          "end": 40.269,
+          "score": 0.857,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "being",
+          "start": 40.429,
+          "end": 40.729,
+          "score": 0.9,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "out",
+          "start": 40.95,
+          "end": 41.07,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "on",
+          "start": 41.15,
+          "end": 41.21,
+          "score": 0.999,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 41.29,
+          "end": 41.33,
+          "score": 0.398,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "stroll",
+          "start": 41.37,
+          "end": 41.69,
+          "score": 0.967,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "with",
+          "start": 41.73,
+          "end": 41.83,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Rodolfo,",
+          "start": 41.89,
+          "end": 42.391,
+          "score": 0.786,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "they",
+          "start": 42.851,
+          "end": 42.971,
+          "score": 0.964,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "had",
+          "start": 42.991,
+          "end": 43.091,
+          "score": 0.828,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "been",
+          "start": 43.131,
+          "end": 43.271,
+          "score": 0.972,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "concerned",
+          "start": 43.352,
+          "end": 43.852,
+          "score": 0.972,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "in",
+          "start": 43.892,
+          "end": 43.952,
+          "score": 0.75,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 43.972,
+          "end": 44.052,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "adduction",
+          "start": 44.132,
+          "end": 44.713,
+          "score": 0.928,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 44.873,
+          "end": 44.933,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 44.993,
+          "end": 45.033,
+          "score": 0.482,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "girl",
+          "start": 45.073,
+          "end": 45.353,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "whom",
+          "start": 45.774,
+          "end": 45.894,
+          "score": 0.781,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "Rodolfo",
+          "start": 45.934,
+          "end": 46.374,
+          "score": 0.792,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "carried",
+          "start": 46.434,
+          "end": 46.734,
+          "score": 0.993,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "off,",
+          "start": 46.834,
+          "end": 46.954,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "whilst",
+          "start": 47.575,
+          "end": 47.815,
+          "score": 0.843,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "the",
+          "start": 47.835,
+          "end": 47.915,
+          "score": 0.834,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "rest",
+          "start": 47.955,
+          "end": 48.175,
+          "score": 0.817,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "of",
+          "start": 48.216,
+          "end": 48.256,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "them",
+          "start": 48.296,
+          "end": 48.456,
+          "score": 0.924,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "detained",
+          "start": 48.516,
+          "end": 48.936,
+          "score": 0.949,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "her",
+          "start": 48.976,
+          "end": 49.076,
+          "score": 0.815,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "family,",
+          "start": 49.116,
+          "end": 49.477,
+          "score": 0.946,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "who",
+          "start": 49.877,
+          "end": 49.977,
+          "score": 0.835,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "made",
+          "start": 50.017,
+          "end": 50.177,
+          "score": 0.778,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "a",
+          "start": 50.197,
+          "end": 50.237,
+          "score": 0.497,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "great",
+          "start": 50.297,
+          "end": 50.497,
+          "score": 0.994,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "outcry",
+          "start": 50.638,
+          "end": 51.138,
+          "score": 0.952,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "and",
+          "start": 51.558,
+          "end": 51.638,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "would",
+          "start": 51.658,
+          "end": 51.818,
+          "score": 0.96,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "have",
+          "start": 51.859,
+          "end": 51.959,
+          "score": 0.877,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "defended",
+          "start": 51.999,
+          "end": 52.439,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "her",
+          "start": 52.499,
+          "end": 52.619,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "if",
+          "start": 52.679,
+          "end": 52.759,
+          "score": 0.746,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "they",
+          "start": 52.779,
+          "end": 52.899,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        },
+        {
+          "word": "could.",
+          "start": 52.959,
+          "end": 53.16,
+          "score": 1.0,
+          "speaker": "SPEAKER_01"
+        }
+      ],
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "The",
+      "start": 0.583,
+      "end": 0.683,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Honorable",
+      "start": 0.803,
+      "end": 1.263,
+      "score": 0.707,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Charles",
+      "start": 1.323,
+      "end": 1.744,
+      "score": 0.808,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Smith,",
+      "start": 1.784,
+      "end": 2.144,
+      "score": 0.957,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Miss",
+      "start": 2.324,
+      "end": 2.524,
+      "score": 0.812,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Sarah's",
+      "start": 2.564,
+      "end": 2.984,
+      "score": 0.813,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "brother,",
+      "start": 3.044,
+      "end": 3.404,
+      "score": 0.952,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 3.504,
+      "end": 3.644,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "walking",
+      "start": 3.704,
+      "end": 4.065,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "swiftly",
+      "start": 4.125,
+      "end": 4.545,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "uptown",
+      "start": 4.625,
+      "end": 5.065,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "from",
+      "start": 5.105,
+      "end": 5.265,
+      "score": 0.841,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Mr.",
+      "start": 5.305,
+      "end": 5.565,
+      "score": 0.818,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Easterly's",
+      "start": 5.705,
+      "end": 6.206,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Wall",
+      "start": 6.246,
+      "end": 6.466,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Street",
+      "start": 6.506,
+      "end": 6.726,
+      "score": 0.894,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "office",
+      "start": 6.846,
+      "end": 7.146,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 7.286,
+      "end": 7.386,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "his",
+      "start": 7.446,
+      "end": 7.566,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "face",
+      "start": 7.666,
+      "end": 7.946,
+      "score": 0.89,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 8.026,
+      "end": 8.146,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pale.",
+      "start": 8.246,
+      "end": 8.627,
+      "score": 0.874,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "At",
+      "start": 9.327,
+      "end": 9.387,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "last",
+      "start": 9.447,
+      "end": 9.727,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 9.767,
+      "end": 9.847,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cotton",
+      "start": 9.887,
+      "end": 10.187,
+      "score": 0.902,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "combine",
+      "start": 10.207,
+      "end": 10.708,
+      "score": 0.992,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 10.768,
+      "end": 10.928,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 10.968,
+      "end": 11.048,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "all",
+      "start": 11.228,
+      "end": 11.348,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "appearances",
+      "start": 11.408,
+      "end": 11.988,
+      "score": 0.986,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "an",
+      "start": 12.048,
+      "end": 12.108,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "assured",
+      "start": 12.148,
+      "end": 12.568,
+      "score": 0.857,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fact",
+      "start": 12.648,
+      "end": 13.009,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 13.069,
+      "end": 13.149,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 13.189,
+      "end": 13.269,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 13.329,
+      "end": 13.449,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "slated",
+      "start": 13.509,
+      "end": 13.909,
+      "score": 0.876,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "for",
+      "start": 13.949,
+      "end": 14.069,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 14.109,
+      "end": 14.189,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Senate.",
+      "start": 14.249,
+      "end": 14.609,
+      "score": 0.994,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Why",
+      "start": 15.17,
+      "end": 15.33,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "should",
+      "start": 15.39,
+      "end": 15.57,
+      "score": 0.833,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "he",
+      "start": 15.61,
+      "end": 15.71,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 15.81,
+      "end": 15.97,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "be",
+      "start": 16.03,
+      "end": 16.17,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "as",
+      "start": 16.23,
+      "end": 16.31,
+      "score": 0.75,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "other",
+      "start": 16.47,
+      "end": 16.65,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "men?",
+      "start": 16.71,
+      "end": 16.97,
+      "score": 0.92,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "She",
+      "start": 17.571,
+      "end": 17.671,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "was",
+      "start": 17.711,
+      "end": 17.811,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "not",
+      "start": 17.871,
+      "end": 18.011,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "herself",
+      "start": 18.051,
+      "end": 18.491,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "a",
+      "start": 18.551,
+      "end": 18.591,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "notably",
+      "start": 18.711,
+      "end": 19.151,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intelligent",
+      "start": 19.231,
+      "end": 19.852,
+      "score": 0.995,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "woman,",
+      "start": 19.892,
+      "end": 20.172,
+      "score": 0.801,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "she",
+      "start": 20.592,
+      "end": 20.712,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "greatly",
+      "start": 20.752,
+      "end": 21.092,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "admired",
+      "start": 21.132,
+      "end": 21.612,
+      "score": 0.973,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intelligence",
+      "start": 21.672,
+      "end": 22.273,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "or",
+      "start": 22.433,
+      "end": 22.513,
+      "score": 0.834,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "whatever",
+      "start": 22.593,
+      "end": 22.913,
+      "score": 0.938,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "looked",
+      "start": 22.993,
+      "end": 23.173,
+      "score": 0.923,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 23.213,
+      "end": 23.293,
+      "score": 0.836,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "her",
+      "start": 23.333,
+      "end": 23.513,
+      "score": 0.893,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "like",
+      "start": 23.573,
+      "end": 23.713,
+      "score": 0.875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "intelligence",
+      "start": 23.773,
+      "end": 24.354,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "in",
+      "start": 24.414,
+      "end": 24.494,
+      "score": 0.845,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "others.",
+      "start": 24.634,
+      "end": 24.894,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "So",
+      "start": 25.757,
+      "end": 25.897,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "persuasive",
+      "start": 25.957,
+      "end": 26.618,
+      "score": 0.962,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "were",
+      "start": 26.678,
+      "end": 26.838,
+      "score": 0.948,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "her",
+      "start": 26.878,
+      "end": 26.978,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "entreaties,",
+      "start": 27.138,
+      "end": 27.679,
+      "score": 0.908,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 28.079,
+      "end": 28.159,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "so",
+      "start": 28.219,
+      "end": 28.379,
+      "score": 0.876,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "strong",
+      "start": 28.439,
+      "end": 28.8,
+      "score": 0.908,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "her",
+      "start": 28.84,
+      "end": 28.94,
+      "score": 0.959,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "assurances",
+      "start": 28.98,
+      "end": 29.6,
+      "score": 0.954,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 29.64,
+      "end": 29.76,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "no",
+      "start": 29.84,
+      "end": 29.961,
+      "score": 0.999,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "harm",
+      "start": 30.061,
+      "end": 30.341,
+      "score": 0.952,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "whatever",
+      "start": 30.361,
+      "end": 30.741,
+      "score": 0.948,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "could",
+      "start": 30.841,
+      "end": 31.001,
+      "score": 0.833,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "result",
+      "start": 31.041,
+      "end": 31.422,
+      "score": 0.995,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 31.462,
+      "end": 31.602,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "them,",
+      "start": 31.642,
+      "end": 31.782,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "from",
+      "start": 32.082,
+      "end": 32.262,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 32.302,
+      "end": 32.383,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "information",
+      "start": 32.443,
+      "end": 33.023,
+      "score": 0.955,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "she",
+      "start": 33.063,
+      "end": 33.203,
+      "score": 0.898,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "sought.",
+      "start": 33.263,
+      "end": 33.543,
+      "score": 0.889,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "They",
+      "start": 34.124,
+      "end": 34.224,
+      "score": 0.969,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "were",
+      "start": 34.244,
+      "end": 34.364,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "induced",
+      "start": 34.424,
+      "end": 34.805,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "to",
+      "start": 34.865,
+      "end": 34.945,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "confess",
+      "start": 34.985,
+      "end": 35.405,
+      "score": 0.968,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "that",
+      "start": 35.745,
+      "end": 35.865,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "one",
+      "start": 36.005,
+      "end": 36.126,
+      "score": 0.887,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "summer's",
+      "start": 36.186,
+      "end": 36.506,
+      "score": 0.842,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "night,",
+      "start": 36.586,
+      "end": 36.806,
+      "score": 0.9,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 37.267,
+      "end": 37.367,
+      "score": 0.939,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "same",
+      "start": 37.427,
+      "end": 37.667,
+      "score": 0.942,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "she",
+      "start": 37.707,
+      "end": 37.807,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "had",
+      "start": 37.847,
+      "end": 37.927,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "mentioned,",
+      "start": 37.967,
+      "end": 38.387,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "themselves",
+      "start": 38.728,
+      "end": 39.328,
+      "score": 0.895,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 39.368,
+      "end": 39.468,
+      "score": 0.85,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "another",
+      "start": 39.508,
+      "end": 39.809,
+      "score": 0.881,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "friend",
+      "start": 39.909,
+      "end": 40.269,
+      "score": 0.857,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "being",
+      "start": 40.429,
+      "end": 40.729,
+      "score": 0.9,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "out",
+      "start": 40.95,
+      "end": 41.07,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "on",
+      "start": 41.15,
+      "end": 41.21,
+      "score": 0.999,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 41.29,
+      "end": 41.33,
+      "score": 0.398,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "stroll",
+      "start": 41.37,
+      "end": 41.69,
+      "score": 0.967,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "with",
+      "start": 41.73,
+      "end": 41.83,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Rodolfo,",
+      "start": 41.89,
+      "end": 42.391,
+      "score": 0.786,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "they",
+      "start": 42.851,
+      "end": 42.971,
+      "score": 0.964,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "had",
+      "start": 42.991,
+      "end": 43.091,
+      "score": 0.828,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "been",
+      "start": 43.131,
+      "end": 43.271,
+      "score": 0.972,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "concerned",
+      "start": 43.352,
+      "end": 43.852,
+      "score": 0.972,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "in",
+      "start": 43.892,
+      "end": 43.952,
+      "score": 0.75,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 43.972,
+      "end": 44.052,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "adduction",
+      "start": 44.132,
+      "end": 44.713,
+      "score": 0.928,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 44.873,
+      "end": 44.933,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 44.993,
+      "end": 45.033,
+      "score": 0.482,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "girl",
+      "start": 45.073,
+      "end": 45.353,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "whom",
+      "start": 45.774,
+      "end": 45.894,
+      "score": 0.781,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "Rodolfo",
+      "start": 45.934,
+      "end": 46.374,
+      "score": 0.792,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "carried",
+      "start": 46.434,
+      "end": 46.734,
+      "score": 0.993,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "off,",
+      "start": 46.834,
+      "end": 46.954,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "whilst",
+      "start": 47.575,
+      "end": 47.815,
+      "score": 0.843,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "the",
+      "start": 47.835,
+      "end": 47.915,
+      "score": 0.834,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "rest",
+      "start": 47.955,
+      "end": 48.175,
+      "score": 0.817,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "of",
+      "start": 48.216,
+      "end": 48.256,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "them",
+      "start": 48.296,
+      "end": 48.456,
+      "score": 0.924,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "detained",
+      "start": 48.516,
+      "end": 48.936,
+      "score": 0.949,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "her",
+      "start": 48.976,
+      "end": 49.076,
+      "score": 0.815,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "family,",
+      "start": 49.116,
+      "end": 49.477,
+      "score": 0.946,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "who",
+      "start": 49.877,
+      "end": 49.977,
+      "score": 0.835,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "made",
+      "start": 50.017,
+      "end": 50.177,
+      "score": 0.778,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "a",
+      "start": 50.197,
+      "end": 50.237,
+      "score": 0.497,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "great",
+      "start": 50.297,
+      "end": 50.497,
+      "score": 0.994,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "outcry",
+      "start": 50.638,
+      "end": 51.138,
+      "score": 0.952,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "and",
+      "start": 51.558,
+      "end": 51.638,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "would",
+      "start": 51.658,
+      "end": 51.818,
+      "score": 0.96,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "have",
+      "start": 51.859,
+      "end": 51.959,
+      "score": 0.877,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "defended",
+      "start": 51.999,
+      "end": 52.439,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "her",
+      "start": 52.499,
+      "end": 52.619,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "if",
+      "start": 52.679,
+      "end": 52.759,
+      "score": 0.746,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "they",
+      "start": 52.779,
+      "end": 52.899,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "word": "could.",
+      "start": 52.959,
+      "end": 53.16,
+      "score": 1.0,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "language": "en"
+}

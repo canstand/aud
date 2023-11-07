@@ -30,6 +30,7 @@ func wordSpace(lang string) string {
 	}
 }
 
+// fixme: will break after Mr./Mrs. etc.
 func breakLineByPunctuation(text string, limit int) []string {
 	ret := []string{}
 	width := runewidth.StringWidth(text)
