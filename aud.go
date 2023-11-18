@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"os"
 )
 
 var (
@@ -27,4 +28,15 @@ func ReadTranscript(r io.Reader) (*Transcript, error) {
 		return nil, ErrFormatNotSupported
 	}
 	return &t, nil
+}
+
+// LoadTranscript loads transcript from file
+// only support whisperx output for now
+func LoadTranscript(path string) (*Transcript, error) {
+	f, err := os.OpenFile(path, os.O_RDONLY, 0)
+	if err != nil {
+		return nil, err
+	}
+	defer f.Close()
+	return ReadTranscript(f)
 }

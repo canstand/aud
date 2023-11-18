@@ -122,10 +122,8 @@ func (t *Transcript) SplitSegment(index int) error {
 	return nil
 }
 
-// ResegmentByWords, use before translate only, otherwise lose translations
-func (t *Transcript) ResegmentByWords(opt ResegmentOption) error {
-	t.Lock()
-	defer t.Unlock()
+// resegmentByWords, use before translate only, otherwise lose translations
+func (t *Transcript) resegmentByWords(opt ResegmentOption) error {
 	opt.LangCode = t.Language // always use source language
 	if opt.MaxInterval == 0 {
 		opt.MaxInterval = 0.5
@@ -165,7 +163,7 @@ func (t *Transcript) ResegmentByWords(opt ResegmentOption) error {
 		segment = &SingleSegment{}
 	}
 	// may miss last segment
-	if segments[len(segments)-1].Text != segment.Text {
+	if segment.Text != "" && segments[len(segments)-1].Text != segment.Text {
 		segments = append(segments, *segment)
 	}
 	t.Segments = segments
@@ -209,17 +207,25 @@ func (t *Transcript) Resegment(option *ResegmentOption) []SingleSegment {
 }
 
 // Translate each segments into target language
-// - override: override existing translation, or else continue
-// - callbacks: for progress report
-func (t *Transcript) Translate(ctx context.Context, svc Translator, targetLang string, override bool, callbacks ...func(finished, total int)) error {
+func (t *Transcript) Translate(ctx context.Context, svc Translator, targetLang string) error {
+	return t.TranslateWithOption(ctx, svc, targetLang, TranslateOption{})
+}
+
+// TranslateWithOption translate each segments into target language
+func (t *Transcript) TranslateWithOption(ctx context.Context, svc Translator, targetLang string, option TranslateOption) error {
 	t.Lock()
 	defer t.Unlock()
 	if targetLang == t.Language {
 		return nil // nothing to do
 	}
+	if option.ResegmentByWords {
+		if err := t.resegmentByWords(ResegmentOption{}); err != nil {
+			return err
+		}
+	}
 	total := len(t.Segments)
 	for index, segment := range t.Segments {
-		if !override && t.Segments[index].Translations != nil {
+		if !option.Override && t.Segments[index].Translations != nil {
 			_, ok := t.Segments[index].Translations[targetLang]
 			if ok {
 				continue
@@ -233,9 +239,15 @@ func (t *Transcript) Translate(ctx context.Context, svc Translator, targetLang s
 			t.Segments[index].Translations = make(map[string]string)
 		}
 		t.Segments[index].Translations[targetLang] = translation
-		for _, cb := range callbacks {
-			cb(index+1, total)
+		if option.Callback != nil {
+			option.Callback(index+1, total)
 		}
 	}
 	return nil
+}
+
+type TranslateOption struct {
+	Override         bool                      // override existing translation, or else continue
+	ResegmentByWords bool                      // Warning: possible to get better results, but all previous translations for all languages will be purged first
+	Callback         func(finished, total int) // for progress report
 }

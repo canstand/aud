@@ -3,18 +3,12 @@ package aud_test
 import (
 	"fmt"
 	"log"
-	"os"
 
 	"github.com/canstand/aud"
 )
 
 func ExampleTranscript_GenSubtitle() {
-	f, err := os.OpenFile("testdata/libri.json", os.O_RDONLY, 0)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer f.Close()
-	transcript, err := aud.ReadTranscript(f)
+	transcript, err := aud.LoadTranscript("testdata/libri.json")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -32,12 +26,7 @@ func ExampleTranscript_GenSubtitle() {
 }
 
 func ExampleTranscript_GenSubtitle_breakLines() {
-	f, err := os.OpenFile("testdata/libri.json", os.O_RDONLY, 0)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer f.Close()
-	transcript, err := aud.ReadTranscript(f)
+	transcript, err := aud.LoadTranscript("testdata/libri.json")
 	if err != nil {
 		log.Fatal(err)
 	}
