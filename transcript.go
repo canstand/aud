@@ -40,7 +40,7 @@ func (t *Transcript) AvailableLangs() []string {
 }
 
 // GenSubtitle generates subtitle
-func (t *Transcript) GenSubtitle(title string, langs []SubtitleOption) (*astisub.Subtitles, error) {
+func (t *Transcript) GenSubtitle(title string, langs []SubtitleOption, optimize bool) (*astisub.Subtitles, error) {
 	t.RLock()
 	defer t.RUnlock()
 	s := astisub.NewSubtitles()
@@ -71,12 +71,15 @@ func (t *Transcript) GenSubtitle(title string, langs []SubtitleOption) (*astisub
 			s.Items = append(s.Items, segment.genItems(&lang)...)
 		}
 	}
-	optimizeIntervals(s)
+	if optimize {
+		OptimizeGaps(s)
+	}
 	return s, nil
 }
 
 // SplitSegment split a segment into multiple segments based on \n
-// only if text and translations have same count of lines
+//
+//	Only if the text and translation have the same number of lines
 func (t *Transcript) SplitSegment(index int) error {
 	t.Lock()
 	defer t.Unlock()

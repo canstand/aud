@@ -53,7 +53,7 @@ func ExampleTranscript_Translate() {
 			LangCode:  "zh",
 			LineBreak: true,
 		},
-	})
+	}, false)
 	if err != nil {
 		log.Fatal(err)
 	}

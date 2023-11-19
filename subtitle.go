@@ -68,28 +68,35 @@ var (
 		SSACollisions: "Reverse",
 		SSAWrapStyle:  "0",
 		// 16:9: 640x360, marginLeft 80, marginRight 80, marginVertical 16
-		// 4:3: 480x360, marginLeft 60, marginRight 60, marginVertical 16
+		// 4:3: 480x360, marginLeft 30, marginRight 30, marginVertical 16
 		SSAPlayResX:   astikit.IntPtr(640),
 		SSAPlayResY:   astikit.IntPtr(360),
 		SSAScriptType: "v4.00+",
 	}
 )
 
-// optimizeIntervals optimize subtitle's intervals
-func optimizeIntervals(subtitle *astisub.Subtitles) {
+// OptimizeGaps optimize subtitle's gaps
+//
+//	Maintain the continuity of subtitle display,
+//	leaving a gap of at least 1s only when the pause is greater than 1.3s
+func OptimizeGaps(subtitle *astisub.Subtitles) {
 	for index, item := range subtitle.Items {
 		if index == 0 || item.StartAt == subtitle.Items[index-1].EndAt {
 			continue
 		}
+
 		diff := item.StartAt - subtitle.Items[index-1].EndAt
-		if diff <= 500*time.Millisecond {
+		if diff <= 500*time.Millisecond { // no interval
 			subtitle.Items[index-1].EndAt = item.StartAt
+		} else if diff <= 1300*time.Millisecond {
+			subtitle.Items[index-1].EndAt = subtitle.Items[index-1].EndAt + 500*time.Millisecond
+			item.StartAt = subtitle.Items[index-1].EndAt
 		} else if diff <= 1800*time.Millisecond {
 			item.StartAt = item.StartAt - 300*time.Millisecond
-			subtitle.Items[index-1].EndAt = item.StartAt - 300*time.Millisecond
+			subtitle.Items[index-1].EndAt = item.StartAt - 1300*time.Millisecond
 		} else if diff > 1800*time.Millisecond {
 			item.StartAt = item.StartAt - 300*time.Millisecond
-			subtitle.Items[index-1].EndAt = subtitle.Items[index-1].EndAt + 1500*time.Millisecond
+			subtitle.Items[index-1].EndAt = subtitle.Items[index-1].EndAt + 500*time.Millisecond
 		}
 	}
 }

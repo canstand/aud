@@ -16,7 +16,7 @@ func ExampleTranscript_GenSubtitle() {
 		{
 			LangCode: "en",
 		},
-	})
+	}, false)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -35,7 +35,7 @@ func ExampleTranscript_GenSubtitle_breakLines() {
 			LangCode:  "en",
 			LineBreak: true,
 		},
-	})
+	}, false)
 	if err != nil {
 		log.Fatal(err)
 	}
